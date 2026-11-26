@@ -3,14 +3,14 @@
   "name": "马卡龙奶油 100%",
   "author": "TwinTusks",
   "colors": {
-    "mouseBody": "#FCF7F1",
-    "mouseBorder": "#B79A94",
+    "mouseBody": "#FCF8F4",
+    "mouseBorder": "#B58E8A",
     "wheel": "#E79FAB",
-    "base": "#F0E1C4",
-    "deck": "#FAF0E5",
-    "key": "#FFFCF7",
-    "keyBorder": "#E8D7D2",
-    "accent": "#EFA8B5",
+    "base": "#F2E3C7",
+    "deck": "#FDF4EF",
+    "key": "#FFF3F4",
+    "keyBorder": "#E7C9CC",
+    "accent": "#EFA3B1",
     "darkText": true
   }
 }
