@@ -1,0 +1,16 @@
+{
+  "formatVersion": 1,
+  "name": "马卡龙奶油 100%",
+  "author": "TwinTusks",
+  "colors": {
+    "mouseBody": "#FCF7F1",
+    "mouseBorder": "#B79A94",
+    "wheel": "#E79FAB",
+    "base": "#F0E1C4",
+    "deck": "#FAF0E5",
+    "key": "#FFFCF7",
+    "keyBorder": "#E8D7D2",
+    "accent": "#EFA8B5",
+    "darkText": true
+  }
+}
